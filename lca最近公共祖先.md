@@ -1,4 +1,4 @@
-### 1. 树上倍增
+### 树上倍增
 
 题目 https://leetcode.cn/problems/number-of-ways-to-assign-edge-weights-ii/
 
